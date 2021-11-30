@@ -67,6 +67,8 @@ section .content-box .form-box h2{
     border-bottom: 4px solid #ff4584;
     display: inline-block;
     letter-spacing: 1px;
+    width: 50px;
+    padding-bottom: 10px;
 
 
 }
